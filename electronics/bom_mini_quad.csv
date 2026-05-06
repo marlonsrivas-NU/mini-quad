@@ -1,0 +1,41 @@
+#,Name,Ref Des,Manufacturer,MFG Part #,Quantity,Description ,Package,Links
+1,Cap 10uF,"C1, C9",Kemet,,2,,0805,
+2,Cap 0.1uF,"C3, C4, C5, C7",Kemet,,4,,0603,
+3,Cap 4.7uF,C8,Kemet,,1,,0805,
+4,1N5817W,"D1,D2,D3,D4",Shenzhen,1N5817W,4,Diode 20V 1A SMT,SOD-123,https://www.digikey.com/en/products/detail/shenzhen-slkormicro-semicon-co-ltd/1N5817W/25701312
+5,SMF5.0A,D5,Littelfuse,SMF5.0A,1,9.2V Clamp Tvs Diode SMT ,SOD-123,https://www.digikey.com/en/products/detail/littelfuse-inc/SMF5-0A/3429605
+6,DFE252012P,L1,Murata,DFE252012P-2R2M=P2,1,IND 2.2uH 2.2A 84mOHM SMD,2520,https://www.digikey.com/en/products/detail/murata-electronics/DFE252012P-2R2M-P2/5247260
+7,AO3400A,"Q1,Q2,Q3,Q4",Alpha & Omega semi,AO3400A,4,MOSFET N-CH 30V 5.7A,SOT23-3L,https://www.digikey.com/en/products/detail/alpha-omega-semiconductor-inc/AO3400A/1855772
+8,50 ohm Res,"R1,R2,R3,R4",Panasonic,,4,50 ohm Res,0603,
+9,2.2k Res,"R5,R6",Panasonic,,2,2.2k Res,0603,
+10,10k Res,"R7,R10,R11",Panasonic,,1,10k Res,0603,
+11,0 ohm Res,R9,Panasonic,,1,0 ohm Res,0603,
+12,100k Res,R12,Panasonic,,1,100k Res,0603,
+13,22.1k Res,R13,Panasonic,,1,22.1k Res,0603,
+14,XIAO-ESP32C3,U1,Seed Studio,,1,XIAO-ESP32-C3,,https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/
+15,BNO086,U3,CEVA Tech,BNO086,1,ACCELROMETER/GYRO SMD,28-LGA (5.2x3.8),https://www.digikey.com/en/products/detail/ceva-technologies-inc/BNO086/14114190
+16,TLV62569PDDCR,U4,Texas Instruments,TLV62569PDDCR,1,IC REG BUCK ADJ 2A ,SOT23,https://www.digikey.com/en/products/detail/texas-instruments/TLV62569PDDCR/8106072?s=N4IgTCBcDaICoBkBqA2MBWFBOACgETwGEAlEAXQF8g
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+20,RES_0402,,,,1,,,
+21,USBLC6-2SC6,,,,1,,,
+22,STM32L476RGT6TR,,ST Microelectronics,,1,,,
+23,MIC5219-3.3YM5-TR,,Microchip,,1,,,
+24,LTC3630,,,,1,,,
